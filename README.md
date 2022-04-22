@@ -31,3 +31,18 @@ Hunted 2 Hours today
 ### Video :
 
 <https://youtube.com/playlist?list=PLO5VPQH6OWdXKPThrch6U0imGdD3pHLXi>
+
+
+## Day 3
+
+### Reading:
+
+<https://hackerone.com/reports/1370749>
+<https://hackerone.com/reports/1084904>
+<https://hackerone.com/reports/1466855>
+<https://hackerone.com/reports/1084638>
+
+### Video :
+
+<https://youtube.com/playlist?list=PLO5VPQH6OWdXKPThrch6U0imGdD3pHLXi>
+
