@@ -46,3 +46,27 @@ Hunted 2 Hours today
 
 <https://youtube.com/playlist?list=PLO5VPQH6OWdXKPThrch6U0imGdD3pHLXi>
 
+
+## Day 4 & Day 5
+
+### Reading:
+
+<https://hackerone.com/reports/1237700>
+<https://hackerone.com/reports/921780>
+<https://hackerone.com/reports/915813>
+<https://hackerone.com/reports/825646>
+<https://hackerone.com/reports/810880>
+<https://hackerone.com/reports/704266>
+<https://hackerone.com/reports/920005>
+<https://hackerone.com/reports/751870>
+<https://hackerone.com/reports/882546>
+<https://hackerone.com/reports/485748>
+<https://hackerone.com/reports/422043>
+<https://hackerone.com/reports/380103>
+<https://hackerone.com/reports/473950>
+<https://hackerone.com/reports/1504410>
+<https://hackerone.com/reports/603764>
+<https://hackerone.com/reports/1037714>
+<https://hackerone.com/reports/1410459>
+
+
