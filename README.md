@@ -70,3 +70,13 @@ Hunted 2 Hours today
 <https://hackerone.com/reports/1410459>
 
 
+## Day 6 :
+
+### Reading :
+
+<https://medium.com/pinoywhitehat/bypass-hackerone-2fa-requirement-and-reporter-blacklist-46d7959f1ee5>
+<https://infosecwriteups.com/authentication-bypass-using-root-array-4a179242b9f7>
+
+**Graphql :** 
+<https://securitycafe.ro/2021/10/01/practical-graphql-attack-vectors/>
+
