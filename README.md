@@ -80,3 +80,12 @@ Hunted 2 Hours today
 **Graphql :** 
 <https://securitycafe.ro/2021/10/01/practical-graphql-attack-vectors/>
 
+
+## Day 7 :
+
+### Reading :
+
+<https://passkwall.medium.com/mindset-for-hacking-graphql-applications-5e72b7ba6b71>
+<https://alsmola.medium.com/login-csrf-is-low-risk-and-high-risk-df91de8988bc>
+<https://ms-official5878.medium.com/account-takeover-using-forgot-password-functionality-c53a58566d8e>
+
