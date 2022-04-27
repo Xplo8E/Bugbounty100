@@ -93,7 +93,7 @@ Hunted 2 Hours today
 
 ### Reading :
 
-**Graphql : **
+**Graphql :**
 <https://infosecwriteups.com/graphql-idor-leads-to-information-disclosure-175eb560170d>
 <https://labs.detectify.com/2018/03/14/graphql-abuse/>
 
