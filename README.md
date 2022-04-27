@@ -89,3 +89,11 @@ Hunted 2 Hours today
 <https://alsmola.medium.com/login-csrf-is-low-risk-and-high-risk-df91de8988bc>
 <https://ms-official5878.medium.com/account-takeover-using-forgot-password-functionality-c53a58566d8e>
 
+## Day 8 :
+
+### Reading :
+
+**Graphql : **
+<https://infosecwriteups.com/graphql-idor-leads-to-information-disclosure-175eb560170d>
+<https://labs.detectify.com/2018/03/14/graphql-abuse/>
+
