@@ -97,3 +97,23 @@ Hunted 2 Hours today
 <https://infosecwriteups.com/graphql-idor-leads-to-information-disclosure-175eb560170d>
 <https://labs.detectify.com/2018/03/14/graphql-abuse/>
 
+## Day 9 :
+
+### Reading :
+
+<https://medium.com/bugbountywriteup/whatsapp-bug-bounty-bypassing-biometric-authentication-using-voip-87548ef7a0ba>
+<https://medium.com/@itsdeepceh/a-business-logic-error-bug-worth-600-a0050720bfee>
+<https://mokhansec.medium.com/idor-via-websockets-allow-me-to-takeover-any-users-account-23460dacdeab?source=post_page-----808f0bdd8ac7----0---------------------------->
+<https://mokhansec.medium.com/full-account-takeover-worth-1000-think-out-of-the-box-808f0bdd8ac7>
+
+## Day 10, 11
+
+Focussed Mainly on **NahamCon2022 CTF** and Got 170th Place
+
+## Day 12 - 01-05-2022
+
+Took Rest and Watching Movies
+
+Thinking about  doing **NahamCon2022 CTF** Write-up
+
+
