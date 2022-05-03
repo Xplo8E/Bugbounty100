@@ -116,4 +116,10 @@ Took Rest and Watching Movies
 
 Thinking about  doing **NahamCon2022 CTF** Write-up
 
+Day 13 & 14:
 
+Doing HTB Web Challenges
+
+Reading :
+<https://cheatsheetseries.owasp.org/cheatsheets/LDAP_Injection_Prevention_Cheat_Sheet.html>
+<https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection>
